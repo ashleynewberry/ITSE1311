@@ -1,7 +1,6 @@
 
 /* General CSS */
 
-
 p {
     margin-top: 0;
     margin-bottom: 0;
@@ -10,6 +9,7 @@ p {
   }
   
   body {
+    
     margin: 0;
     padding-top: 20px;
     padding-left: 80px;
@@ -17,3 +17,7 @@ p {
     background-color: rgb(174, 182, 191);
   }
   
+ol {
+  font-family: 'Franklin Gothic Medium';
+  font: rgb(43, 172, 232)
+}
